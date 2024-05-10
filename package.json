@@ -1,0 +1,19 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A command line tool that generates simple logos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "Maxwell Mitchell",
+  "license": "UNLICENSED",
+
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.5",
+    "jest": "^29.7.0"
+  }
+}
